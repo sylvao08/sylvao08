@@ -2,7 +2,7 @@
 
 ![Cover](https://github.com/sylvao08/sylvao08/blob/main/profile.png)
 
-## About me 🙂
+## About Me
 
 👩‍💻 I'm a data scientist and am passionate about building usable intelligent solutions for our customers. I love writing code to automate tasks.
 
@@ -10,7 +10,7 @@
 - 🌱 I’m currently building models using PyTorch 
 - 📫 You can reach me : shangyun.lv@gmail.com
 - ⚡ Fun fact: I love playing piano 🎹🎼🎶
-## Language :
+## Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
@@ -20,8 +20,7 @@
 
 ## Stats 📈
 <p align="center" height="500">
-  <img width="60%" align="left" src="https://github-readme-stats.vercel.app/api?username=sylvao08&show_icons=true" />
-  <!--<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChoudharyTara&theme=tokyonight" />-->
+  <img height="500" align="left" src="https://github-readme-stats.vercel.app/api?username=sylvao08&show_icons=true" />
   <a href="https://github.com/sylvao08/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvao08" /></a> 
 </p>
 
