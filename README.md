@@ -25,5 +25,5 @@
 </p>
 
 
-[![Shangyun's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sylvao08&theme=xcode)]
+![Shangyun's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sylvao08&theme=xcode)
 <hr>
