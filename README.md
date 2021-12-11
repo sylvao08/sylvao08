@@ -19,8 +19,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shangyun-lu/)
 
 ## Stats 📈
-<p align="center" height="300">
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=sylvao08&show_icons=true" />
+<p align="center" height="500">
+  <img width="60%" align="left" src="https://github-readme-stats.vercel.app/api?username=sylvao08&show_icons=true" />
   <!--<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChoudharyTara&theme=tokyonight" />-->
   <a href="https://github.com/sylvao08/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvao08" /></a> 
 </p>
