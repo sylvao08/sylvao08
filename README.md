@@ -19,9 +19,10 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shangyun-lu/)
 
 ## Stats 📈
-<p align="center" height="500" width="100%">
+<p align="center" height="500">
   <img width="60%" align="left" src="https://github-readme-stats.vercel.app/api?username=sylvao08&show_icons=true" />
   <a href="https://github.com/sylvao08/github-readme-stats"><img width="36%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvao08" /></a> 
 </p>
+
 ![Shangyun's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sylvao08&theme=xcode)
 <hr>
