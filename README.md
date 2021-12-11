@@ -18,11 +18,11 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shangyun-lu/)
 
-<h2 align="center"> 📈 Stats</h2>
+📈 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sylvao08&show_icons=true" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=sylvao08&show_icons=true" />
   <!--<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChoudharyTara&theme=tokyonight" />-->
-  <a href="https://github.com/sylvao08/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvao08" /></a> 
+  <a href="https://github.com/sylvao08/github-readme-stats"><img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvao08" /></a> 
 </p>
 
 [![Shangyun's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sylvao08&theme=xcode)](https://git.io/ChoudharyTara)
