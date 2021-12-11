@@ -18,10 +18,11 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shangyun-lu/)
 
+[![Shangyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sylvao08)](https://github.com/anuraghazra/github-readme-stats)
 <h2 align="center"> 📈 Stats</h2>
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChoudharyTara&show_icons=true&theme=onedark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sylvao08&show_icons=true&theme=onedark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChoudharyTara&theme=tokyonight" />
   <a href="https://github.com/ChoudharyTara/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoudharyTara&layout=compact&theme=buefy&hide_border=true" /></a> 
 </p>
