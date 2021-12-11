@@ -23,7 +23,5 @@
   <img width="60%" align="left" src="https://github-readme-stats.vercel.app/api?username=sylvao08&show_icons=true" />
   <a href="https://github.com/sylvao08/github-readme-stats"><img width="36%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvao08" /></a> 
 </p>
-<div align="center">
-  ![Shangyun's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sylvao08&theme=xcode)
-</div>
+![Shangyun's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sylvao08&theme=xcode)
 <hr>
