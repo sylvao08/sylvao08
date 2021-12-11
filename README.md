@@ -1,4 +1,4 @@
-<h1 align="center" >Hi there, I'm <a href="https://www.linkedin.com/in/shangyun-lu/" target="_blank"> Shangyun Lu </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center" >Hi there, I'm <a href="https://www.linkedin.com/in/shangyun-lu/" target="_blank"> Shangyun Lu </a><img src="https://github.com/sylvao08/sylvao08/blob/main/profile.png" width="30px"></h1>
 
 ![Cover](https://user-images.githubusercontent.com/87922322/141672174-9b1f2d2b-741f-4ee5-bff4-228bf04673e9.png)
 
