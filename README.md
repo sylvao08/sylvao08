@@ -21,7 +21,7 @@
 ## Stats 📈
 <p align="center" height="500">
   <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=sylvao08&show_icons=true" />
-  <a href="https://github.com/sylvao08/github-readme-stats"><img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvao08" /></a>
+  <a href="https://github.com/sylvao08/github-readme-stats"><img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvao08&layout=compact" /></a>
   <br>
 </p>
 
